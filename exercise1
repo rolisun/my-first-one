@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+  <head>
+    <meta charset="utf-8">
+    <title>My first website</title>
+  </head>
+
+  <body>
+    <h1>I don't know...</h1>
+      <h2>I don't know...</h2>
+        <h3>I don't know...</h3>
+          <h4>I don't know...</h4>
+            <h5>I don't know...</h5>
+              <h6>I don't know...</h6>
+                <p>What's going on?</p><br>
+                <p>What heppened on me?</p>
+                  <b>It's like a dream.</b>
+                  <i>Everything is italic.</i>
+                  <u>There's a line.</u>
+                  <em>And something emphasized.</em>
+                  <strong>Hey, they are so strong.</strong>
+                  <sub>OK it's enough.</sub>
+                  <sup>LET ME OUT!!!</sup>
+                    <img src="https://by.cuc.edu.cn/_upload/site/00/05/5/logo.png"><br>
+                    <img src="测试1.jpg">
+                    <a href="https://by.cuc.edu.cn/" target="_blank">Is this the exit?</a>
+
+  </body>
+
+</html>
